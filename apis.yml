@@ -32,6 +32,9 @@ description: Compt is an employee benefits platform that automates flexible stip
   participation rate and roughly 30 minutes of monthly admin time. It is a Battery Ventures portfolio
   company. No public API or developer program was found during enrichment.
 url: https://raw.githubusercontent.com/api-evangelist/compt/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "No public API or developer program was found during enrichment."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
